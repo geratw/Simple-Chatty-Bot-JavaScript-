@@ -1,1 +1,1 @@
-# Simple-Chatty-Bot-JavaScript-
+# Simple-Chatty-Bot(JavaScript)
